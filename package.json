@@ -1,0 +1,21 @@
+{
+  "name": "bulkrename",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bulkrn": "./index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@inquirer/prompts": "^7.2.0",
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
